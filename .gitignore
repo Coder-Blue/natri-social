@@ -1,0 +1,28 @@
+# Local
+.DS_Store
+*.local
+*.log*
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dist
+node_modules
+dist/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# ENV
+.env*.local
+.env
+
+# Production
+/build
+
+# bun
+bun.lockb
