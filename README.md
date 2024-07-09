@@ -2,7 +2,7 @@
 
 ## What is this?
 
-- This so called **Natri** is just a simple Notion clone that I made based on [As a Programmer](https://www.youtube.com/@asaprogrammer_)'s video, but there is a bit of adjustment just for _Vietnamese_, and instead of using [Vite](https://vitejs.dev), I'm using [RSBuild](https://rsbuild.dev/).
+- This so called **Natri** is just a simple Instagram clone that I made based on [As a Programmer](https://www.youtube.com/@asaprogrammer_)'s video, but there is a bit of adjustment just for _Vietnamese_, and instead of using [Vite](https://vitejs.dev), I'm using [RSBuild](https://rsbuild.dev/).
 - The live website is in the description. You can try it out.
 
 ## What can it do?
